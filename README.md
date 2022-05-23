@@ -3,4 +3,4 @@
 ### I work in technology stack: HTML/CSS, JS/Vue, Php/Laravel
 ### Contact with me:
 - 📫 adel.garipovazn@mail.ru
-- 💬 Telegram @Cikada_116
+- 💬 Telegram
