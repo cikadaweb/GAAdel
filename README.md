@@ -5,4 +5,4 @@
 - 📫 adel.garipovazn@mail.ru
 - 💬 Telegram
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CiKaDa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAAdel)](https://github.com/anuraghazra/github-readme-stats)
